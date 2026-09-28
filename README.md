@@ -1,0 +1,1 @@
+A simple python project to demo good code review practices (reference: Module 5 Lecture 1 notes, fall'26 of CSC 325)
